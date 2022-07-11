@@ -1,0 +1,25 @@
+var products = [
+    {
+        
+        productid: 1,
+        name:"Mi-PAD",
+        brand: "mi",
+        price: 12000,
+        category:"Mobiles"
+        
+    },
+    {
+        productid: 2,
+        brand: "POCO",
+        price: 13000,
+        category:"Mobiles"
+       
+    },
+    {
+        productid: 3,
+        brand: "REALME",
+        price: 21000,
+        category:"Mobiles"
+        
+    }
+];

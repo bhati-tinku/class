@@ -1,0 +1,58 @@
+       [
+      {
+        "product_picture": "x2pro.jpg ",
+        "mobilename": "RealmeX2 Pro",
+        "model": "RMX1931",
+        "brand": "Realme",
+        "price": "32999",
+        "camera": "64 MP",
+        "processor": "SD855+",
+        "rating": "4.9*",
+        "description": "Description"
+      },
+      {
+        "product_picture": "11t.jpg",
+        "mobilename": "RealmeX7 Pro",
+        "model": "RMX1981",
+        "brand": "Realme",
+        "price": "21999",
+        "camera": "64 MP",
+        "processor": "SD765G",
+        "rating": "4*",
+        "description": "Description"
+      },
+      {
+        "product_picture": "x2pro.jpg",
+        "mobilename": "MI 11T Pro",
+        "model": "XM 3271",
+        "brand": "Xiaomi",
+        "price": "17999",
+        "camera": "108 MP",
+        "processor": "SD765+",
+        "rating": "4.2*",
+        "description": "Description"
+      },
+      {
+        "product_picture": "11t.jpg",
+        "mobilename": "MI 12 Pro",
+        "model": "XM 3371",
+        "brand": "Xiaomi",
+        "price": "37999",
+        "camera": "108 MP",
+        "processor": "SD865+",
+        "rating": "4.3*",
+        "description": "Description"
+      },
+      {
+        "product_picture": "x2pro.jpg ",
+        "mobilename": "Infinix X2 Pro",
+        "model": "IFX1971",
+        "brand": "Infinix",
+        "price": "8999",
+        "camera": "64 MP",
+        "processor": "SD665+",
+        "rating": "3.4*",
+        "description": "Description"
+      }
+      
+    ] 

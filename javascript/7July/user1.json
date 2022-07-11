@@ -1,0 +1,36 @@
+[{
+   "username": "Tinku",
+   "firstName": "Tinku",
+   "lastname" : "Bhati",
+   "gender" : "Male",
+   "profileURL" :"img/t.jpg",
+   "email": "tinkubhatirt@gmail.com"
+
+},
+{
+    "username": "Vikas",
+    "firstName": "Vikas",
+    "lastname" : "Logan",
+    "gender" : "Male",
+    "profileURL" :"img/v.jpg",
+    "email": "vikasloganrt@gmail.com"
+ 
+ },
+ {
+    "username": "Suryadev",
+    "firstName": "Suryadev",
+    "lastname" : "Rajput",
+    "gender" : "Male",
+    "profileURL" :"img/s.jpg",
+    "email": "srajputt@gmail.com"
+ 
+ },
+ {
+    "username": "Manish",
+    "firstName": "Manish",
+    "lastname" : "Kushwaha",
+    "gender" : "Male",
+    "profileURL" :"img/m.jpg",
+    "email": "msk@gmail.com"
+ 
+ }]

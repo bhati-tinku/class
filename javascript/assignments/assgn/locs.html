@@ -1,0 +1,57 @@
+<html>
+
+<head>
+    <title>Hospital Managment</title>
+</head>
+
+<body>
+    <form id="hospform">
+        <h3>Request Routine Dental Appointment Form</h3>
+        <label for="name">Name</label>
+        <input type="Text" name="name" id="fname" placeholder="First" />
+        <input type="Text" name="name" id="lname" placeholder="Last" />
+        <br><br>
+        <label for="phone">Phone</label>
+        <input type="tel" id="phone" name="phone" placeholder="### ### ####">
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" required />
+        <br><br>
+        <label for="dob">Date Of Birth</label>
+        <input type="date" id="dob" name="dob" placeholder="MM/DD/YYYY" />
+        <label for="dateofappointment">Date Of Appointment</label>
+        <input type="date" id="dateofappointment" name="dateofappointment" placeholder="MM/DD/YYYY" />
+        <br><br>
+        <label for="doctor">Doctor Name</label>
+        <select name="doctor" id="doctor">
+            <option value="name">select Doctor Name</option>
+            <option value="Dr.Bindu Suresh">Dr.Bindu Suresh</option>
+            <option value="Dr.Rishab Clinic">Dr.Rishab Clinic</option>
+            <option value="Dr.Govind">Dr.Govind</option>
+        </select>
+        <label for="toa">Time Of Appointment</label>
+        <input type="time" id="toa" name="toa" placeholder="HH:MM AM" />
+        <br><br>
+        <label>Do you require dental surgery?</label><br>
+        <input type="radio" id="yes" name="yes" value="Yes" />Yes
+         
+          <input type="radio" name="no" value="No" />No
+         
+        <br>
+        <label>Have You Visited Our Dental Clinic Before?</label><br>
+        <input type="radio" id="yes1" name="yes1" value="Yes1">Yes
+         
+          <input type="radio" name="no1" value="No1">No
+         
+        <br>
+        <label>Have you experienced dental illnesses/surgeries in the past?</label><br>
+        <input type="radio" id="yes2" name="yes2" value="Yes2">Yes
+
+        <input type="radio" name="no2" value="No2">No
+         
+        <br><br>
+        <input type="submit" value="SUBMIT FORM" />
+    </form>
+</body>
+
+</html>
+<script src="./locas.js"></script>
